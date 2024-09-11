@@ -10,7 +10,8 @@ The **GPS Tracker System** is a real-time, cost-effective solution for tracking 
 - **Portable and Cost-effective**: Ideal for small-scale tracking applications.
 
 ### Project Model
-![GPS Tracker Model](link_to_model_image)
+![GPS Model](https://github.com/user-attachments/assets/b8d28645-bc75-4ed4-8369-a1d42df38c0c)
+
 
 ### How It Works
 1. The GPS module retrieves the geographical coordinates (latitude and longitude).
@@ -25,10 +26,10 @@ The **GPS Tracker System** is a real-time, cost-effective solution for tracking 
 - **Breadboard and Jumper Wires**
 
 ### Project Setup
-For a detailed guide on assembling the hardware and setting up the software, please refer to the [Project Documentation](link_to_project_docs) or check the [Source Code](link_to_source_code).
+For a detailed guide on assembling the hardware and setting up the software, please refer to the [Project Documentation](https://github.com/deekshitha-3/GPS_TRACKER/blob/master/Report.pdf) or check the [Source Code](https://github.com/deekshitha-3/GPS_TRACKER/blob/master/Report.pdf).
 
 ### Demo Video
-Watch the [demo video](link_to_video) of the GPS Tracker in action.
+Watch the [demo video](https://github.com/deekshitha-3/GPS_TRACKER/blob/master/Working_video.mp4) of the GPS Tracker in action.
 
 ### Applications
 - **Personal Navigation**
